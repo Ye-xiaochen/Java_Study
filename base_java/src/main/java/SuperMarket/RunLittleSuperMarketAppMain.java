@@ -5,7 +5,9 @@ import person.Customer;
 import java.util.Scanner;
 
 /**
- * @author Administrator
+ * @Author: yxc
+ * @Data:2022/9/15 1:06
+ * @Description: TODO 极客时间 零基础学java 41 打造一个小超市
  */
 public class RunLittleSuperMarketAppMain {
 
